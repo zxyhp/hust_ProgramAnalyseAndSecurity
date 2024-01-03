@@ -1,0 +1,8 @@
+The contents of this file have moved to report.txt.
+
+Found 372 issues
+Issue Type(ISSUED_TYPE_ID): #
+      Thread Safety Violation(THREAD_SAFETY_VIOLATION): 234
+                    Null Dereference(NULL_DEREFERENCE): 90
+                          Resource Leak(RESOURCE_LEAK): 34
+  Interface Not Thread Safe(INTERFACE_NOT_THREAD_SAFE): 14

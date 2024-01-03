@@ -1,0 +1,9 @@
+The contents of this file have moved to report.txt.
+
+Found 345 issues (console output truncated to 5, see '/home/zxy0/code/ProgramAnalyseAndSecurity/bookkeeper-release-4.14.8/infer-out/report.txt' for the full list)
+                                                Issue Type(ISSUED_TYPE_ID): #
+                          Thread Safety Violation(THREAD_SAFETY_VIOLATION): 209
+                                        Null Dereference(NULL_DEREFERENCE): 90
+                                              Resource Leak(RESOURCE_LEAK): 31
+                      Interface Not Thread Safe(INTERFACE_NOT_THREAD_SAFE): 14
+  Arbitrary Code Execution Under lock(ARBITRARY_CODE_EXECUTION_UNDER_LOCK): 1
